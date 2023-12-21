@@ -1,6 +1,9 @@
 # The-Office-SQL
 
+
  Basic SQL Code to demonstrate my knowledge:
+
+ 
 -CREATE TABLE
 -INSERT INTO TABLES VALUES
 -SELECT AND FROM CLAUSES
